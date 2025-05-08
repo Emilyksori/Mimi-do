@@ -26,7 +26,6 @@ Busca e ordenação dinâmica.
 
 ### Interface Temporária realizada no Figma
 
-![alt text](image.png)
 
 
 Obs: O Readme foi realizado no início do projeto atualmente, com funcionalidades e tecnologias estimadas para o projeto, mas ao decorrer do desenvolvimento pode-se haver mudanças.
